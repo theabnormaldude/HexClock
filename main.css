@@ -1,0 +1,11 @@
+body {
+    font-family: Montserrat;
+    font-weight: 200;
+    text-align: center;
+    color:white;
+}
+
+#clock{
+    font-size: 300px;
+    margin-top: 150px;
+}
